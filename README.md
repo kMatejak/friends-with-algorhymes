@@ -1,2 +1,2 @@
-# friends-with-algorhymes
-my solutions and notes to tasks from Jacek Tomasiewicz's workbook
+# Friends With Algorhymes
+My solutions and notes to tasks from Jacek Tomasiewicz's workbook
